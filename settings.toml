@@ -1,8 +1,8 @@
-﻿[data]
-most_cited_csv = "C:/Users/GODLEWSKI/OneDrive - unistra.fr/EDITORIAL & REFEREEING/Revue FINANCE/ranking/PoP/PoPCites_.csv"
-top_citing_csv = "C:/Users/GODLEWSKI/OneDrive - unistra.fr/EDITORIAL & REFEREEING/Revue FINANCE/Python files/Top3CitingPapersPerSource.csv"
-unified_papers_csv = "C:/Users/GODLEWSKI/OneDrive - unistra.fr/EDITORIAL & REFEREEING/Revue FINANCE/Python files/UnifiedPapers.csv"
-edges_csv = "C:/Users/GODLEWSKI/OneDrive - unistra.fr/EDITORIAL & REFEREEING/Revue FINANCE/Python files/Edges.csv"
+[data]
+most_cited_csv = "data/PoPCites_.csv"
+top_citing_csv = "data/Top3CitingPapersPerSource.csv"
+unified_papers_csv = "data/UnifiedPapers.csv"
+edges_csv = "data/Edges.csv"
 
 [cloud]
 fallback_data_dir = "data"
