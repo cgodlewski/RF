@@ -1,0 +1,6 @@
+﻿pandas>=2.1
+networkx>=3.2
+plotly>=5.20
+streamlit>=1.34
+pytest>=8.0
+kaleido>=0.2.1
